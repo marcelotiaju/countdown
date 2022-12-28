@@ -21,5 +21,12 @@
 
   .counter-number {
     font-size: 1.5rem;
+    padding: 1rem;
+    margin-bottom: -15px;
+    margin-top: 15px;
+  }
+
+  .counter-text {
+    margin-bottom: 1px;
   }
 }
