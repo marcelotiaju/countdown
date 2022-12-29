@@ -58,7 +58,7 @@ const Countdown = () => {
           <span>Imagem:</span>
           <input
             type="text"
-            placeholder="Insira a URL da imagem"
+            placeholder="Insira a URL da imagem (opcional)"
             onChange={(e) => setImage(e.target.value)}
           />
         </label>
